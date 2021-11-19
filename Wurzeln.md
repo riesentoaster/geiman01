@@ -1,3 +1,3 @@
 # Wurzeln
 Hier einige Wurzeln zur Belustigung, wie gewünscht vom Helden unserer Herzen:
-$\cup$
+$A\cup B$
