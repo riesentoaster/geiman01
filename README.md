@@ -27,4 +27,4 @@ A collection of *things* dedicated to the man himself.
 - [ ] Refactor
 
 ## Contributors
-- @silvan-flum for his [thing](#Things)
+- [@silvan-flum](https://github.com/silvan-flum) for his [thing](#Things).
