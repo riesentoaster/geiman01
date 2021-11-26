@@ -26,5 +26,5 @@ A collection of *things* dedicated to the man himself.
 - [ ] Is a Wort zum Sonntag a thing? Discuss [here](https://github.com/riesentoaster/geiman01/discussions/7).
 - [ ] Refactor
 
-## Contributors
-@silvan-flum for his [thing](#Things)
+## Contributors
+- @silvan-flum for his [thing](#Things)
