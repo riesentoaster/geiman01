@@ -1,0 +1,27 @@
+@startuml
+
+participant Floor
+actor "Team Member" as Team 
+participant Hammock
+actor Douchebag
+
+Team -> Hammock : mount
+loop hammock fights until COM is over
+    Team -> Hammock : use
+    Hammock --> Team : Chill time
+    Douchebag -> Team : "Fuck off, I wanna use it!"
+    Team -> Team : wake up
+    Team -> Douchebag : "The fuck?!?"
+    Douchebag -> Hammock : turn upside-down
+    Hammock --> Douchebag : Empty Hammock
+    Team -> Floor : touch
+    Floor --> Team : Pain
+    Douchebag -> Hammock : use
+    Hammock --> Douchebag : Chill time
+    Team -> Team : stand up
+    Team -> Hammock : turn upside-down
+    Hammock --> Team : Empty Hammock
+end
+Team -> Hammock : dismount
+
+@enduml

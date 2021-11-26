@@ -12,6 +12,7 @@ A collection of *things* dedicated to the man himself.
 ## *Things*
 - [Wurzeln](./Wurzeln)
 - [Updates](./assets/updates.jpg)
+- [Extended Hammock SSD](./assets/SSD-hammock.png)
 
 ## *Maybethings*
 - > `COM` is for comedy.
