@@ -27,4 +27,4 @@ A collection of *things* dedicated to the man himself.
 - [ ] Refactor
 
 ## Contributors
-- [@silvan-flum](https://github.com/silvan-flum) for his [thing](#things).
+- [@silvan-flum](https://github.com/silvan-flum) for his [thing](#things) in [#8](https://github.com/riesentoaster/geiman01/pull/8).
