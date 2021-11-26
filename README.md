@@ -13,10 +13,10 @@ A collection of *things* dedicated to the man himself.
 - [Wurzeln](./Wurzeln)
 - [Updates](./assets/updates.jpg)
 
-## Maybethings
+## *Maybethings*
 - > `COM` is for comedy.
 
-## Nothings
+## *Nothings*
 > //TODO
 
 ## ToDos
