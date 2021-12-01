@@ -15,7 +15,7 @@ A collection of *things* dedicated to the man himself.
 - [Extended Hammock SSD](./assets/SSD-hammock.png)
 
 ## *Maybethings*
-- > `COM` is for comedy.
+- > [`COM` is for comedy.](./assets/COM.png)
 
 ## *Nothings*
 > //TODO
