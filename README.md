@@ -4,9 +4,12 @@ A collection of *things* dedicated to the man himself.
 
 
 
-## Wort zum Sonntag :)
+## Worte zu Sonntagen :)
 > Der Sonntag ist ein schöner Tag, da er der Sonne gewidmet ist.
 > - geiman01 2021 
+
+> Sonntag ist ein Sonnentag weil Sonntags die Sonne tagt. 
+> - saarofel 2021
 
 
 ## *Things*
