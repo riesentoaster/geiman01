@@ -34,3 +34,4 @@ A collection of *things* dedicated to the man himself.
 
 ## Contributors
 - [@silvan-flum](https://github.com/silvan-flum) for his [thing](#things) in [#8](https://github.com/riesentoaster/geiman01/pull/8).
+- [@geissemanu](https://github.com/Geissemanu) for his [thing](#things) in [#10](https://github.com/riesentoaster/geiman01/pull/10).
