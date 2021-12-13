@@ -11,7 +11,7 @@ A collection of *things* dedicated to the man himself.
 > Sonntag ist ein Sonnentag weil Sonntags die Sonne tagt. 
 > - saarofel 2021
 
-> Jeder Sonntag sollst du die Sonne loben und nicht auf den Tischen toben.
+> Jeden Sonntag sollst du die Sonne loben und nicht auf den Tischen toben.
 > - geiman01 & saarofel 2021
 
 
