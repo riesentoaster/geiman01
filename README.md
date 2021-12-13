@@ -11,6 +11,9 @@ A collection of *things* dedicated to the man himself.
 > Sonntag ist ein Sonnentag weil Sonntags die Sonne tagt. 
 > - saarofel 2021
 
+> Jeder Sonntag sollst du die Sonne loben.
+> - geiman01 2021
+
 
 ## *Things*
 - [Wurzeln](./Wurzeln)
