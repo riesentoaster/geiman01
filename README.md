@@ -1,9 +1,6 @@
 # geiman01
 A collection of *things* dedicated to the man himself.
 
-
-
-
 ## Worte zu Sonntagen :)
 > Der Sonntag ist ein schöner Tag, da er der Sonne gewidmet ist.
 > - geiman01 2021 
@@ -14,11 +11,13 @@ A collection of *things* dedicated to the man himself.
 > Jeden Sonntag sollst du die Sonne loben und nicht auf den Tischen toben.
 > - geiman01 & saarofel 2021
 
-
 ## *Things*
 - [Wurzeln](./Wurzeln)
 - [Updates](./assets/updates.jpg)
 - [Extended Hammock SSD](./assets/SSD-hammock.png)
+
+### DirtyHack
+- [DirtyHack01](./dirtyHack01.md)
 
 ## *Maybethings*
 - > [`COM` is for comedy.](./assets/COM.png)
@@ -36,3 +35,4 @@ A collection of *things* dedicated to the man himself.
 - [@silvan-flum](https://github.com/silvan-flum) for his [thing](#things) in [#8](https://github.com/riesentoaster/geiman01/pull/8).
 - [@geissemanu](https://github.com/Geissemanu) for his [maybething](#maybethings) in [#10](https://github.com/riesentoaster/geiman01/pull/10).
 - [@MrF3lix](https://github.com/MrF3lix) for his [maybething](#maybethings) in [#10](https://github.com/riesentoaster/geiman01/pull/10).
+- [@riesentoaster](https://github.com/riesentoaster) for his [DirtyHack](#dirtyhack) in [#15](https://github.com/riesentoaster/geiman01/pull/15).
