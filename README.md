@@ -23,7 +23,7 @@ A collection of *things* dedicated to the man himself.
 - > [`COM` is for comedy.](./assets/COM.png)
 
 ## *Nothings*
-> //TODO
+> [How to square the circle](./SquareTheCircle.md)
 
 ## ToDos
 - [ ] Asymptote
