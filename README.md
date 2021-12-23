@@ -15,6 +15,7 @@ A collection of *things* dedicated to the man himself.
 - [Wurzeln](./Wurzeln)
 - [Updates](./assets/updates.jpg)
 - [Extended Hammock SSD](./assets/SSD-hammock.png)
+- [RGBerset](./assets/rgberset.mp4)
 
 ### DirtyHack
 - [DirtyHack01](./dirtyHack01.md)
