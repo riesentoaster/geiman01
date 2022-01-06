@@ -32,6 +32,7 @@ A collection of *things* dedicated to the man himself.
 
 ## *Maybethings*
 - > [`COM` is for comedy.](./assets/COM.png)
+- [Prompts for Skribbl.io](https://docs.google.com/forms/d/e/1FAIpQLSd5sbU9lDsGtOUgj7UuqDRBKXxwz-R1hsI29VHxIBfG8Rfqow/viewform?usp=sf_link)
 
 ## *Nothings*
 > [How to square the circle](./SquareTheCircle.md)
