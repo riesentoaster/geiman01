@@ -28,6 +28,7 @@ A collection of *things* dedicated to the man himself.
 
 ### DirtyHack
 - [DirtyHack01](./dirtyHack01.md)
+- [DirtyHack02](./dirtyHack02.md)
 
 ## *Maybethings*
 - > [`COM` is for comedy.](./assets/COM.png)
