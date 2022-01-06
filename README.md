@@ -17,6 +17,12 @@ A collection of *things* dedicated to the man himself.
 - [Extended Hammock SSD](./assets/SSD-hammock.png)
 - [RGBerset](./assets/rgberset.mp4)
 
+### Useful *things*
+
+- [CT1: Conditional Flag Calculator](https://arm-condition-flags.vercel.app/)
+- [GED: Weylandinator](https://github.com/MrF3lix/weylandinator)
+- [DM1: Logic Calculator](https://logic-calculator.vercel.app/)
+
 ### DirtyHack
 - [DirtyHack01](./dirtyHack01.md)
 
