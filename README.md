@@ -34,7 +34,7 @@ A collection of *things* dedicated to the man himself.
 - > [`COM` is for comedy.](./assets/COM.png)
 
 ## *Nothings*
-> [How to square the circle](./SquareTheCircle.md)
+- > [How to square the circle](./SquareTheCircle.md)
 
 ## ToDos
 - [ ] Asymptote
