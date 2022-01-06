@@ -11,6 +11,9 @@ A collection of *things* dedicated to the man himself.
 > Jeden Sonntag sollst du die Sonne loben und nicht auf den Tischen toben.
 > - geiman01 & saarofel 2021
 
+> Scheinbar scheint die Sonne auch an unscheinbaren Sonntagen.
+> - geiman01 2022
+
 ## *Things*
 - [Wurzeln](./Wurzeln)
 - [Updates](./assets/updates.jpg)
