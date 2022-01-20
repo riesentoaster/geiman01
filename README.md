@@ -25,6 +25,7 @@ A collection of *things* dedicated to the man himself.
 - [CT1: Conditional Flag Calculator](https://arm-condition-flags.vercel.app/)
 - [GED: Weylandinator](https://github.com/MrF3lix/weylandinator)
 - [DM1: Logic Calculator](https://logic-calculator.vercel.app/)
+- [Moodle: Unicode Unspoof](./unicode-unspoof)
 
 ### DirtyHack
 - [DirtyHack01](./dirtyHack01.md)

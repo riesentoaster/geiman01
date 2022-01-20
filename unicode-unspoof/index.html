@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unspoof this 💩</title>
+    <style>
+        body {
+            height:100vh;
+            margin:0;
+            padding:2rem;
+            box-sizing:border-box;
+            display:flex;
+            flex-direction:column;
+            align-items:center;
+            justify-content:center;
+        }
+    </style>
+</head>
+
+<script>
+    const chars = [
+        ["A", "А"],
+        ["B", "В"],
+        ["C", "С"],
+        ["D", "D"],
+        ["E", "Е"],
+        ["F", "F"],
+        ["G", "G"],
+        ["H", "Н"],
+        ["I", "І"],
+        ["J", "J"],
+        ["K", "Κ"],
+        ["L", "L"],
+        ["M", "М"],
+        ["N", "Ν"],
+        ["O", "О"],
+        ["P", "Р"],
+        ["Q", "Q"],
+        ["R", "R"],
+        ["S", "Ѕ"],
+        ["T", "Т"],
+        ["U", "U"],
+        ["V", "V"],
+        ["W", "W"],
+        ["X", "Х"],
+        ["Y", "Υ"],
+        ["Z", "Ζ"],
+        ["a", "а"],
+        ["b", "b"],
+        ["c", "с"],
+        ["d", "d"],
+        ["e", "е"],
+        ["f", "f"],
+        ["g", "g"],
+        ["h", "h"],
+        ["i", "і"],
+        ["j", "ј"],
+        ["k", "k"],
+        ["l", "l"],
+        ["m", "m"],
+        ["n", "n"],
+        ["o", "о"],
+        ["p", "р"],
+        ["q", "q"],
+        ["r", "r"],
+        ["s", "ѕ"],
+        ["t", "t"],
+        ["u", "u"],
+        ["v", "v"],
+        ["w", "w"],
+        ["x", "х"],
+        ["y", "у"],
+        ["z", "z"],
+    ]
+
+    function unspoof(text) {
+            let unspoofed = text
+            chars.forEach(([r,s]) => unspoofed = unspoofed.replaceAll(s, r))
+            return unspoofed
+    }
+    
+    async function unspoofClipboard() {
+        const s = await navigator.clipboard.readText()
+        const u = unspoof(s)
+        navigator.clipboard.writeText(u)
+    }
+</script>
+
+<body>
+    <button onclick="unspoofClipboard()" style="font-size:3rem;">Unspoof this 💩</button>
+</body>
+</html>
