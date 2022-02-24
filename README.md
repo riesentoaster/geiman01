@@ -14,6 +14,9 @@ A collection of *things* dedicated to the man himself.
 > Scheinbar scheint die Sonne auch an unscheinbaren Sonntagen.
 > - geiman01 2022
 
+> Bei Ausnahmesituationen wie Fragen, ist man in PE auch am Sonntag gut aufgehoben
+>  -geiman01 2022
+
 ## *Things*
 - [Wurzeln](./Wurzeln)
 - [Updates](./assets/updates.jpg)
