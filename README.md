@@ -15,7 +15,7 @@ A collection of *things* dedicated to the man himself.
 > - geiman01 2022
 
 > Bei Ausnahmesituationen wie Fragen, ist man in PE auch am Sonntag gut aufgehoben
->  -geiman01 2022
+> - geiman01 2022
 
 ## *Things*
 - [Wurzeln](./Wurzeln)
