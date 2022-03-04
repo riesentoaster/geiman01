@@ -12,3 +12,4 @@ The following list shows difficult english words and how the are correctly prono
 
 - environment: _envoirement_
 - reality: _rayality_
+- entire: _antyre_ 
