@@ -17,3 +17,4 @@ The following list shows difficult english words and how the are correctly prono
 - reality: _rayality_
 - entire: _antyre_ 
 - instantiate: _instansiate_
+- alias: äliäs_ 
