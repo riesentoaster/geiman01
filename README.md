@@ -38,6 +38,7 @@ A collection of *things* dedicated to the man himself.
 - > [`COM` is for comedy.](./assets/COM.png)
 - [Prompts for Skribbl.io](https://docs.google.com/forms/d/e/1FAIpQLSd5sbU9lDsGtOUgj7UuqDRBKXxwz-R1hsI29VHxIBfG8Rfqow/viewform?usp=sf_link)
 - [WING Summary](./wing-summary.md)
+- [Wisdom by Bohe](./bohe-wisdom.md)
 
 ## *Nothings*
 - > [How to square the circle](./SquareTheCircle.md)
