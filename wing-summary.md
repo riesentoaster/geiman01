@@ -51,15 +51,79 @@
 - Falls ein Fahrzeug abbrennt, war das Image nicht standhaft
 
 
+## 3. März 2022
+
+### Lektion 1
+
+- Schallplatten werden aufgrund ihres knackenden, warmen Klangs der CD bevorzugt
+- 200**7** (nicht wie fälschlicherweise behauptet 2008) war das Jahr des iPhones
+- Kodak war dominant, war aber nicht erfolgreich im Umsetzen der Strategie
+- Kodaks Image erlaubte keinen Fortschritt
+- Für attraktive Bilder sollte man noch heute Analog-Filme verwenden
+- **Governanz** ist seit dem 5. Management Modell enthalten!
+- Nie wieder Ryanair
+- Nie wieder KLM
 
 
 
+## 10. März 2022
+
+### Lektion 2
+
+- Marketing-Abteilungen bestehen nur aus Leuten, die Webseiten und Flyer erstellen.
+- Stärken und Schwächen der SWOT Analyse sind die Innen-Sicht und das sich-selbst-sein.
+- Sie werden eine Prüfung lösen, SWOT Analyse ***könnte*** eine Prüfungsaufgabe sein.
+- «Ich werde es Ihnen nicht *vorlesen*, auch wenn wir in einer *Vorlesung* sind»
+- Oben kommt die Ordnung, vorne die Richtung. Das müssen Sie sich merken. Ich gehe nicht auf  die Kapitel ein.
+- George Clooney ist das wichtigste Thema.
+- Er findet das Getränk Red Bull beeindruckend, weil es in der Schweiz verboten war und von ihm importiert wurde (er war in der Party-Szene).
+- Wenn etwas gefährlich ist, ist es herausragend.
+- Unterdessen ist Red Bull weit über das Getränk gewachsen.
+- Gruppen befriedigen sich ihre Wünsche, indem sie Dinge von Wert erstellen.
+- Beim Marketing geht es darum, Leuten im Markt etwas zu verkaufen.
+- Heribert Meffert befriedigt die Kundenbedürfnisse dauerhaft.
+- Operativ ist das Kurzfristige, Strategisch das langfristige (Horizont 5-10 Jahre)
+- Ich werde es verbrauchen!!
+- Im B-TO-B wird geht es darum, die Wertschöpfung weiterzutreiben.
+- Die Migros ist eine Konsumentin.
+- Der Ölpreis war noch nie so hoch, die Abstimmung war als der Preis bei 1.40 war → **der Markt ist nicht logisch**.
+- Das typische Problem eines Start-UPs ist, dass die Nachfrage hochgeht.
+- Chip-Mangel existiert, weil die Produktionslinie nicht auf den Markt ausgerichtet ist.
+- Die SWATCH war bahnbrechend.
+- Die Lästigen Umfragen lassen sich mit sauberem Walliserdeutsch abwimmeln.
+- Microsoft ist einfach Verarsche!
+- Die Milch ist immer weit hinten.
+- Als unwissende Person greift man zur Mitte.
+- Geringverdiener können sich kein Entrecôte leisten.
+- Idealerweise ruft man ihn 5 Minuten vor dem Abendessen an.
+- Wenn man ihn auf dem linken Fuss erwischt, antwortet er noch pointierter, als er eh schon ist.
+- Ich wurde nicht verhaftet, also bin ich sehr zufrieden!
+- Im Hotel wird der Schraubenzieher als Hammer missbraucht.
+- Gilette kauft man auch ohne Bartwuchs!
+- $\text{Sättigungsgrad} = \frac{\text{Markvolumen}}{\text{Marktpotenzial}}$
+- Personen über 80 zählt man für den Markt nicht mehr.
+- 100&nbsp;% : "Ich führ noch eine Einheit ein! 💡"
+- Wie lange brachen Sie, um 63 Löcher zu bohren?
+- Alle Gesunde Personen trinken regelmässig Alkohol. Am besten wirkt es, wenn man 1&nbsp;dl am Morgen trinkt.
+- Die Intelligenz korreliert mit dem Gewicht.
+- Er trägt LEVI's
 
 
+### Lektion 2
 
-
-
-
-
-
-
+- Lastwagen werden selten als Konsumgüter gekauft.
+- Wenn man frische Sortenvielfalt anbietet, muss man im Fernsehen Werbung schalten. Ergo müssen sie eine hohe Marge haben.
+- Mmmm, ja, Erde, mmmm, jaa, fein 🍇🍷
+- Bei Zweifel-Chips kann man zulangen, falls es der Kundenkontakt erfordert ([siehe](./asset/COM.png)).
+- Die Automobilindustrie verkauft Emotionen, aufgrund des potenten Geschosses hinten.
+- Design gehört ganz klar auf die linke Seite (weil auch z.B. rechte Wahlwerbung immer hässlicher ist wie linke).
+- ICH WILL EIN TRANSPORTMITTEL UM IN DIE HÖHE ZU KOMMEN. ICH MÖCHTE DASS DER LIFT FUNKTIONIERT, NICHT WIE IN DER NEUEN BAHNHOFSUNTERFÜHRUNG IN WINTERTHUR.
+- Wenn das Ding gut aussieht, dann wird es auch besser behandelt; es wird schonender damit umgegangen. Die Frage ist: Wie kann ich das Ding greifen?
+- Eine Hotline, die man nicht erreicht, ist günstiger als eine, die man erreicht.
+- Ein Sportauspuff ist gut, um zu bluffen.
+- Psychologinnen sagen, dass das Geschlechterverhältnis von Rasern bei $\frac{1}{40}$ liegt
+- Man sollte laufen; die Räder beim SUV sind riesig.
+- Wenn man Kekse für CHF 0.50 mehr pro Stück verkaufen würde, könnte man den Gewinn steigern. Die Frage ist
+- Waschmittel riecht gut.
+- Im Treppenhaus kann man riechen, welche Haustüre aufgeht, aufgrund des Familienmief.
+- Jaja, Standort freigeben, ich habe nichts zu verbergen, tolle Sache!
