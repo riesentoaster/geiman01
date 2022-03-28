@@ -1,3 +1,3 @@
-# quotes
+# Quotes
 
 > Alkohol hilft beim Programmieren. ~waga
