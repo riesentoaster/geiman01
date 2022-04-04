@@ -29,6 +29,7 @@ A collection of *things* dedicated to the man himself.
 - [GED: Weylandinator](https://github.com/MrF3lix/weylandinator)
 - [DM1: Logic Calculator](https://logic-calculator.vercel.app/)
 - [Moodle: Unicode Unspoof](https://unspoof.party)
+- [ZHAW VPN without AnyConnect Client](https://github.com/simonschuhmacher/openconnect-vpn-zhaw)
 
 ### DirtyHack
 - [DirtyHack01](./dirtyHack01.md)
