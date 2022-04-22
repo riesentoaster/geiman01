@@ -127,3 +127,36 @@
 - Waschmittel riecht gut.
 - Im Treppenhaus kann man riechen, welche Haustüre aufgeht, aufgrund des Familienmief.
 - Jaja, Standort freigeben, ich habe nichts zu verbergen, tolle Sache!
+
+
+## 21. April 2022
+
+### Lektion 1
+
+- Produkte die er immer kauft (immer in der gleichen Menge)
+	- Milch
+	- Eier
+	- Brot
+
+- Der Kunde ist an der leine Angebunden
+- Blind etwas anbraten ist nicht ganz einfach
+- Beschaffungslogistik: Ich muss etwas einkaufen
+- Produktionslogistik: Zum richtigen Zeitpunkt richtige Ware am richtigen Ort
+- Lagerlogistik: Milch nicht in den Backofen stellen
+- Die Käse sind im Kühlschrank zuoberst, weil es einen Kühlgradienten gibt
+- Entsorgungslogistik: Abfälle, Dinge die nicht gelungen sind
+- Missgeprägt von Coop
+- Teuerung ist gut, weil Schulden an Wert verlieren (-> Investieren lohnt sich)
+
+
+### Lektion 2
+
+- Second Life für einen Skischuh: Gut für den Skischuh.
+- Schlechter: Tagesausflug mit dem SUV, Mittagessen auf dem Gipfel im Gipfelrestaurant
+- Im Suezkanal die anderen im Konvoi zu bitten, mal anzuhalten, ist peinlich.
+- Erdnussbutter Crunchy war nicht verfügbar - er lebt nur noch knapp
+- ABC & XYZ Analyse sind real
+	- ABC: Wie viel Stück brauche ich an Lager, wie teuer ist der Einstandspreis (wie teuer war der Einkauf)
+	- A Güter: 70-80% Wertanteil, < 30 % Mengenanteil an der Gesamtmenge
+- Der Litter Milch zu Hause kommt jede Woche. Das ist einfach so. 🍼
+- Ich brauche ein Mutterbrett
