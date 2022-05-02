@@ -14,6 +14,9 @@ A collection of *things* dedicated to the man himself.
 > Scheinbar scheint die Sonne auch an unscheinbaren Sonntagen.
 > - geiman01 2022
 
+> Bei Ausnahmesituationen wie Fragen, ist man in PE auch am Sonntag gut aufgehoben
+> - geiman01 2022
+
 ## *Things*
 - [Wurzeln](./Wurzeln)
 - [Updates](./assets/updates.jpg)
@@ -27,6 +30,7 @@ A collection of *things* dedicated to the man himself.
 - [GED: Weylandinator](https://github.com/MrF3lix/weylandinator)
 - [DM1: Logic Calculator](https://logic-calculator.vercel.app/)
 - [Moodle: Unicode Unspoof](https://unspoof.party)
+- [ZHAW VPN without AnyConnect Client](https://github.com/simonschuhmacher/openconnect-vpn-zhaw)
 
 ### DirtyHack
 - [DirtyHack01](./dirtyHack01.md)
@@ -35,6 +39,9 @@ A collection of *things* dedicated to the man himself.
 ## *Maybethings*
 - > [`COM` is for comedy.](./assets/COM.png)
 - [Prompts for Skribbl.io](https://docs.google.com/forms/d/e/1FAIpQLSd5sbU9lDsGtOUgj7UuqDRBKXxwz-R1hsI29VHxIBfG8Rfqow/viewform?usp=sf_link)
+- [WING Summary](./wing-summary.md)
+- [Wisdom by Bohe](./bohe-wisdom.md)
+- [Quotes](./quotes.md)
 
 ## *Nothings*
 - > [How to square the circle](./SquareTheCircle.md)
