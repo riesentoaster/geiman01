@@ -57,3 +57,4 @@ A collection of *things* dedicated to the man himself.
 - [@MrF3lix](https://github.com/MrF3lix) for his [maybething](#maybethings) in [#10](https://github.com/riesentoaster/geiman01/pull/10).
 - [@riesentoaster](https://github.com/riesentoaster) for his [DirtyHack](#dirtyhack) in [#15](https://github.com/riesentoaster/geiman01/pull/15).
 - [@uvoglu](https://github.com/uvoglu) for his [thing](#things) in [#22](https://github.com/riesentoaster/geiman01/pull/22).
+- [@S4nvers](https://github.com/S4nvers) for adding to a [maybething](#maybethings) in [#34](https://github.com/riesentoaster/geiman01/pull/34)
