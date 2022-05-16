@@ -23,3 +23,5 @@
 > Cloud heisst in der Essenz: Jemand anderes ist inkompetent. ~waga
 
 > Es kommt von der NSA. Aber in diesem Fall besteht Grund zur Annahme, dass es nicht absichtlich sabotiert wurde. ~waga über Mandatory Access Control
+
+> SE-Linux ist ein potentielles Risiko für ihre mentale Gesundheit. ~waga
