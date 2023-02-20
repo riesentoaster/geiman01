@@ -16,6 +16,7 @@ A collection of *things* dedicated to the man himself.
 - [Updates](./assets/updates.jpg)
 - [Extended Hammock SSD](./assets/SSD-hammock.png)
 - [RGBerset](./assets/rgberset.mp4)
+- [SexBots](./assets/SexBots.pdf)
 
 ### DirtyHack
 - [DirtyHack01](./dirtyHack01.md)
