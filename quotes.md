@@ -27,3 +27,5 @@
 > SE-Linux ist ein potentielles Risiko für ihre mentale Gesundheit. ~waga
 
 > Mehr Aufwand, alles schlechter. ~SWEN2-Vortrag
+
+> I’ve paid for these four cores — and they’re sitting around and drinking beer. ~donn
