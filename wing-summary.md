@@ -160,3 +160,24 @@
 	- A Güter: 70-80% Wertanteil, < 30 % Mengenanteil an der Gesamtmenge
 - Der Litter Milch zu Hause kommt jede Woche. Das ist einfach so. 🍼
 - Ich brauche ein Mutterbrett
+
+
+## 5. Mai 2022
+
+### Lektion 1
+
+- Man bleibt weil das Gras auf der anderen Seite nicht grüner ist 
+- Ein Unternehmen geht ungern nach Bauchgefühl
+- Ich schaue wie du’s rechnest und ich es tunen muss und dann bin ich ganz oben
+- Billigere Produkte verbrauchen mehr Energie
+- Geld in 5 Jahren ist weniger wert als das von Morgen
+- Bei alten Maschinen braucht man 3 Personen, bei neuen nur noch eine halbe
+- FIFA und IOC wollen nicht Profit machen, aber Sicherheiten haben
+- Fussballplätze mit Kunstrasen sind für hohe Folgekosten verantwortlich
+- Ein Risiko beim Elektroauto-Kauf ist, dass einem gekündigt wird
+
+### Lektion 2
+
+- Der Fiat Multipla ist hässlich und der Renault Megane hat ein Hinterteil wie Kim Kardashian
+- The Look von Roxette verarscht Radiomoderatoren weil es eine Pause im Lied hat
+- Wenn man sich bei der Rodelbahn verrechnet geht es runter
