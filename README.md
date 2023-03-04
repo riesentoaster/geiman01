@@ -47,7 +47,7 @@ A collection of *things* dedicated to the man himself.
 - > [How to square the circle](./SquareTheCircle.md)
 
 ## *Unhelpful Things*
-- [comedy.md]
+- [Comedy.md](./comedy.md)
 
 ## ToDos
 - [ ] Asymptote
