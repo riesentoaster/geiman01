@@ -42,6 +42,7 @@ A collection of *things* dedicated to the man himself.
 - [WING Summary](./wing-summary.md)
 - [Wisdom by Bohe](./bohe-wisdom.md)
 - [Quotes](./quotes.md)
+- [ChatGPT](./chatgpt.md)
 
 ## *Nothings*
 - > [How to square the circle](./SquareTheCircle.md)
@@ -62,4 +63,4 @@ A collection of *things* dedicated to the man himself.
 - [@riesentoaster](https://github.com/riesentoaster) for his [DirtyHack](#dirtyhack) in [#15](https://github.com/riesentoaster/geiman01/pull/15).
 - [@uvoglu](https://github.com/uvoglu) for his [thing](#things) in [#22](https://github.com/riesentoaster/geiman01/pull/22).
 - [@S4nvers](https://github.com/S4nvers) for adding to a [maybething](#maybethings) in [#34](https://github.com/riesentoaster/geiman01/pull/34)
-- [@Ra1nerZufall](https://github.com/Ra1nerZufall) for adding a [quote](./quotes) in [#37](https://github.com/riesentoaster/geiman01/pull/37)
+- [@Ra1nerZufall](https://github.com/Ra1nerZufall) for adding a [quote](./quotes.md) in [#37](https://github.com/riesentoaster/geiman01/pull/37)
