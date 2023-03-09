@@ -56,3 +56,9 @@ Jedoch etwas unpopulär die Methode. ~escl
 > Physik ist ganz einfach. Sie können damit berechnen, wie viel Hafer sie brauchen um Wasser 3m in die Höhe zu befördern. SIe müssen nur abstrakte Formeln in das passende Pferd umwandeln. ~escl
 
 > Ich vergesse ab und zu was in den Folien steht und es freut mich jedes mal, wenn ich diese physikalischen Gesetzmässigkeiten neu entdecke. Das ist der Vorteil von bedingtem Alzheimer ~escl
+
+> Sie wissen, das wieder ein FIFA event ansteht, wenn dauernd Heineken, Cola und McDonalds Werbung läuft. So die typischen Sportlerprodukte halt. ~scdd
+
+> Qualität ist, wenn der Kunde und nicht das Produkt zurück kommt. ~scdd
+
+> Ich bin kein BWLer. Das hat den Nachteil, ich bin kein BWLer. Das hat den Vorteil, ich bin kein BWLer. ~scdd
