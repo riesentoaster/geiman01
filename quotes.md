@@ -18,7 +18,7 @@
 
 > [...], da muss man halt einfach brutal integrieren. ~escl über Schwerpunktberechnungen bei Halbkugeln und anderen komplexen Körpern
 
-> He killed his wife and went to jail – open source developer ~bohe about Hans Reiser
+> He killed his wife and went to jail — open source developer ~bohe about Hans Reiser
 
 > Cloud heisst in der Essenz: Jemand anderes ist inkompetent. ~waga
 
@@ -36,7 +36,7 @@
 
 > Meine Vorlesungen sind eigentlich alle ambitioniert. Ich habe keine Lust, irgendwie Technikerunterricht zu machen. Ich komm ja ursprünglich auch von der Universität, hab ne Doktorarbeit gemacht. ~bohe
 
-> *Points to column titled yes* — Linux User, *points to column titled no* — Windows User. ~bohe zum Punkt "Ich verfüge über das notwendige Vorwissen, um dem Unterricht zu folgen" in der Unterrichtsevaluation.
+> *Zeigt auf die Ja-Spalte* — Linux User, *Zeigt auf die Nein-Spalte* — Windows User. ~bohe über den Punkt "Ich verfüge über das notwendige Vorwissen, um dem Unterricht zu folgen" in der Unterrichtsevaluation.
 
 > Die Idee ist, dass die Musterlösungen durch Ihre Präsentationen generiert werden. ~bohe
 
@@ -48,7 +48,7 @@
 
 > Wir leben auf einer Scheibe, deren Mittelpunkt der Nordpol ist und der Rand der Äquator. Das mit der Kugel können Sie vergessen, dass ist ein blödes Gerücht. ~escl zum Thema Corioliskraft
 
-> Bitte machen Sie das nicht, es ist keine gute Idee und ich werde Sie nicht im Krankenhaus besuchen. Aber stellen Sie sich vor, Sie stehen auf der Strasse und ihnen kommt ein Lastwagen entgegen. Nun werfen Sie einen Basketball an den Lastwagen und Sie müssen viel schneller ausweichen als Sie jemals denken würden. ~escl
+> Bitte machen Sie das nicht, es ist keine gute Idee und ich werde Sie nicht im Krankenhaus besuchen. Aber — stellen Sie sich vor, Sie stehen auf der Strasse und ihnen kommt ein Lastwagen entgegen. Nun werfen Sie einen Basketball an den Lastwagen und Sie müssen viel schneller ausweichen als Sie jemals denken würden. ~escl
 
 > Das Impulsübernehmen ist im Weltall sehr populär, auf den Planeten eher weniger. Dies wird zum Beispiel bei Satelliten verwendet zur Gewinnung kinetischer Energie oder Kurswechsel. Wie gesagt, Sie würden mit dem Ball wohl auch einen Kurswechsel erfahren, nur währe der wohl eher weniger gewollt. ~escl als Ergänzung zum LKW/Basketball-Experiment
 
