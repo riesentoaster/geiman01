@@ -47,6 +47,9 @@ A collection of *things* dedicated to the man himself.
 ## *Nothings*
 - > [How to square the circle](./SquareTheCircle.md)
 
+## *Unhelpful Things*
+- [Comedy.md](./comedy.md)
+
 ## ToDos
 - [ ] Asymptote
   - Nähert sich der Graph einer Funktion einer Geraden immer mehr an, ohne sie zu schneiden, so wird diese Gerade Asymptote genannt. Man unterscheidet zwischen senkrechte, waagerechte und schiefe Asymptoten.
