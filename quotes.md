@@ -62,3 +62,5 @@ Jedoch etwas unpopulär die Methode. ~escl
 > Qualität ist, wenn der Kunde und nicht das Produkt zurück kommt. ~scdd
 
 > Ich bin kein BWLer. Das hat den Nachteil, ich bin kein BWLer. Das hat den Vorteil, ich bin kein BWLer. ~scdd
+
+> Das schreib ich Ihnen in die Evaluation rein: Student mag keine Deutschen ~wele als Reaktion auf studentische Aussage bei Datenselektion nach Zufallsverfahren: "Wenn man Pech hat, hat man nur Deutsche."
