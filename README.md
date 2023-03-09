@@ -46,6 +46,9 @@ A collection of *things* dedicated to the man himself.
 ## *Nothings*
 - > [How to square the circle](./SquareTheCircle.md)
 
+## *Unhelpful Things*
+- [Comedy.md](./comedy.md)
+
 ## ToDos
 - [ ] Asymptote
   - Nähert sich der Graph einer Funktion einer Geraden immer mehr an, ohne sie zu schneiden, so wird diese Gerade Asymptote genannt. Man unterscheidet zwischen senkrechte, waagerechte und schiefe Asymptoten.
@@ -59,3 +62,4 @@ A collection of *things* dedicated to the man himself.
 - [@riesentoaster](https://github.com/riesentoaster) for his [DirtyHack](#dirtyhack) in [#15](https://github.com/riesentoaster/geiman01/pull/15).
 - [@uvoglu](https://github.com/uvoglu) for his [thing](#things) in [#22](https://github.com/riesentoaster/geiman01/pull/22).
 - [@S4nvers](https://github.com/S4nvers) for adding to a [maybething](#maybethings) in [#34](https://github.com/riesentoaster/geiman01/pull/34)
+- [@Ra1nerZufall](https://github.com/Ra1nerZufall) for adding a [quote](./quotes) in [#37](https://github.com/riesentoaster/geiman01/pull/37)
