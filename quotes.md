@@ -33,3 +33,9 @@
 > Abschreiben ist üblich, F=a*m habe ich nicht erfunden, aber erwähne Herrn Newton als Urheber. Und ich habe mich überzeugt, dass die Formel recht gut stimmt. ~escl
 
 > They stole from the open source community. ~bohe about Apple
+
+> Meine Vorlesungen sind eigentlich alle ambitioniert. Ich habe keine Lust, irgendwie Technikerunterricht zu machen. Ich komm ja ursprünglich auch von der Universität, hab ne Doktorarbeit gemacht. ~bohe
+
+> Er zeigt auf die Ja/Eher ja Spalte und sagt "Linux User", dann auf die Nein/Eher nein Spalte und sagt "Windows User". ~bohe bei der Besprechung der Unterrichtsevaluation beim Punkt: Ich verfüge über das notwendige Vorwissen, um dem Unterricht zu folgen.
+
+> Die Idee ist, dass die Musterlösungen durch Ihre Präsentationen generiert werden. ~bohe
