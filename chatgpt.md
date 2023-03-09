@@ -99,3 +99,15 @@ One day, while working on his latest project, Bohnert found himself lost in thou
 With Vim as his weapon of choice and his unwavering commitment to open source as his guiding principle, Bohnert became a hero to coders everywhere. He continued to battle against Apple's theft, always pushing the boundaries of what was possible with open source technology.
 
 Despite the challenges he faced, Bohnert never gave up. He knew that only by staying true to his principles could he truly make a difference in the world of tech. And so, with Vim at his fingertips and the power of open source in his heart, Bohnert continued to fight the good fight, inspiring others to join him in the battle for a more open, accessible, and just tech industry.
+
+### Sidekick
+
+During one of his adventures, Open Source Man stumbled upon a young electrical engineering student who called himself the Weylandinator. Impressed by Weylandinator's passion for open-source technology and his expertise in electrical engineering, Open Source Man decided to take him under his wing.
+
+As Weylandinator worked alongside Open Source Man, he began to develop a deep appreciation for the power of open-source technology to make the world a better place. He also discovered a new passion for hardware hacking, using his knowledge of electrical engineering to build innovative open-source hardware that could help protect the open-source community.
+
+Weylandinator's most significant creation was a powerful device designed to defend the open-source community from those who sought to exploit it. As the Weylandinator, he became a formidable presence, with a sharp mind and an unflinching commitment to the values of open-source technology.
+
+With Weylandinator by his side, Open Source Man became an incredible team, using their combined skills to protect the open-source community from threats both big and small. They traveled the world, attending conferences and meetups, inspiring others to join their cause and become advocates for open-source technology.
+
+Together, Open Source Man and the Weylandinator continue to work tirelessly to promote open-source technology and defend the values of the open-source community. Their unwavering commitment to this cause is an inspiration to coders and engineers everywhere.
