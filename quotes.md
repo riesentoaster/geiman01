@@ -29,3 +29,5 @@
 > Mehr Aufwand, alles schlechter. ~SWEN2-Vortrag
 
 > I’ve paid for these four cores — and they’re sitting around and drinking beer. ~donn
+
+> Abschreiben ist üblich, F=a*m habe ich nicht erfunden, aber erwähne Herrn Newton als Urheber. Und ich habe mich überzeugt, dass die Formel recht gut stimmt. ~escl
