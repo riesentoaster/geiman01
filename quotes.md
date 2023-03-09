@@ -44,8 +44,7 @@
 
 > Machen sie sich ruhig lächerlich mit ihrer Methode und sind etwas langsamer. Wenn sie dann am Ende als einziger recht haben, dann können sie lachen. ~escl wärend er das Scheibenwischer-dingens für die Tafel als "Sekantenmesser" benutzte.
 
-> Wenn sie Schwerelosigkeit erfahren wollen müssen sie nur ein Fenster öffnen, raussspazieren  und viele Stockwerke haben.
-Jedoch etwas unpopulär die Methode. ~escl
+> Wenn sie Schwerelosigkeit erfahren wollen müssen sie nur ein Fenster öffnen, raussspazieren  und viele Stockwerke haben. Jedoch etwas unpopulär die Methode. ~escl
 
 > Wir leben auf einer Scheibe deren Mittelpunkt der Nordpol ist und der Rand der Äquator. Das mit der Kugel können sie vergessen, dass ist ein blödes Gerücht. ~escl zum Thema Corioliskraft
 
