@@ -36,30 +36,30 @@
 
 > Meine Vorlesungen sind eigentlich alle ambitioniert. Ich habe keine Lust, irgendwie Technikerunterricht zu machen. Ich komm ja ursprünglich auch von der Universität, hab ne Doktorarbeit gemacht. ~bohe
 
-> Er zeigt auf die Ja/Eher ja Spalte und sagt "Linux User", dann auf die Nein/Eher nein Spalte und sagt "Windows User". ~bohe bei der Besprechung der Unterrichtsevaluation beim Punkt: Ich verfüge über das notwendige Vorwissen, um dem Unterricht zu folgen.
+> *Points to column titled yes* — Linux User, *points to column titled no* — Windows User. ~bohe zum Punkt "Ich verfüge über das notwendige Vorwissen, um dem Unterricht zu folgen" in der Unterrichtsevaluation.
 
 > Die Idee ist, dass die Musterlösungen durch Ihre Präsentationen generiert werden. ~bohe
 
 > Mathematiker sind Kinder die mit Zahlen spielen und Probleme lösen, die es ohne sie nicht gäbe und welche niemanden ausser die Mathematiker stören. Aber komischerweise kann man sie zum Teil für die Physik brauchen und keiner weiss, warum dass das so gut funktioniert. ~escl
 
-> Machen sie sich ruhig lächerlich mit ihrer Methode und sind etwas langsamer. Wenn sie dann am Ende als einziger recht haben, dann können sie lachen. ~escl wärend er das Scheibenwischer-dingens für die Tafel als "Sekantenmesser" benutzte.
+> Machen Sie sich ruhig lächerlich mit ihrer Methode und sind etwas langsamer. Wenn Sie dann am Ende als einziger recht haben, dann können Sie lachen. ~escl wärend er das Scheibenwischer-Dingens für die Tafel als "Sekantenmesser" benutzte.
 
-> Wenn sie Schwerelosigkeit erfahren wollen müssen sie nur ein Fenster öffnen, raussspazieren  und viele Stockwerke haben. Jedoch etwas unpopulär die Methode. ~escl
+> Wenn Sie Schwerelosigkeit erfahren wollen müssen Sie nur ein Fenster öffnen, raussspazieren und viele Stockwerke haben. Jedoch etwas unpopulär die Methode. ~escl
 
-> Wir leben auf einer Scheibe deren Mittelpunkt der Nordpol ist und der Rand der Äquator. Das mit der Kugel können sie vergessen, dass ist ein blödes Gerücht. ~escl zum Thema Corioliskraft
+> Wir leben auf einer Scheibe, deren Mittelpunkt der Nordpol ist und der Rand der Äquator. Das mit der Kugel können Sie vergessen, dass ist ein blödes Gerücht. ~escl zum Thema Corioliskraft
 
-> Bitte machen sie das nicht, es ist keine gute Idee und ich werde sie nicht im Krankenhaus besuchen. Aber...stellen sie sich vor, sie stehen auf der Strasse und ihnen kommt ein Lastwagen entgegen. Nun werfen sie einen Basketball an den Lastwagen und sie müssen viel schneller ausweichen als sie jemals denken würden. ~escl
+> Bitte machen Sie das nicht, es ist keine gute Idee und ich werde Sie nicht im Krankenhaus besuchen. Aber stellen Sie sich vor, Sie stehen auf der Strasse und ihnen kommt ein Lastwagen entgegen. Nun werfen Sie einen Basketball an den Lastwagen und Sie müssen viel schneller ausweichen als Sie jemals denken würden. ~escl
 
-> Das Impulsübernehmen ist im Weltall sehr populär, auf den Planeten eher weniger. Dies wird zum Beispiel bei Satelliten verwendet zur Gewinnung kinetischer Energie oder Kurswechsel. Wie gesagt, sie würden mit dem Ball wohl auch einen Kurswechsel erfahren, nur währe der wohl eher weniger gewollt. ~escl als Ergänzung zum LKW/Basketball-Experiment
+> Das Impulsübernehmen ist im Weltall sehr populär, auf den Planeten eher weniger. Dies wird zum Beispiel bei Satelliten verwendet zur Gewinnung kinetischer Energie oder Kurswechsel. Wie gesagt, Sie würden mit dem Ball wohl auch einen Kurswechsel erfahren, nur währe der wohl eher weniger gewollt. ~escl als Ergänzung zum LKW/Basketball-Experiment
 
-> Physik ist ganz einfach. Sie können damit berechnen, wie viel Hafer sie brauchen um Wasser 3m in die Höhe zu befördern. SIe müssen nur abstrakte Formeln in das passende Pferd umwandeln. ~escl
+> Physik ist ganz einfach. Sie können damit berechnen, wie viel Hafer Sie brauchen um Wasser 3m in die Höhe zu befördern. Sie müssen nur abstrakte Formeln in das passende Pferd umwandeln. ~escl
 
-> Ich vergesse ab und zu was in den Folien steht und es freut mich jedes mal, wenn ich diese physikalischen Gesetzmässigkeiten neu entdecke. Das ist der Vorteil von bedingtem Alzheimer ~escl
+> Ich vergesse ab und zu was in den Folien steht und es freut mich jedes mal, wenn ich diese physikalischen Gesetzmässigkeiten neu entdecke. Das ist der Vorteil von bedingtem Alzheimer. ~escl
 
-> Sie wissen, das wieder ein FIFA event ansteht, wenn dauernd Heineken, Cola und McDonalds Werbung läuft. So die typischen Sportlerprodukte halt. ~scdd
+> Sie wissen, das wieder ein FIFA-Event ansteht, wenn dauernd Heineken-, Cola- und McDonalds-Werbung läuft. So die typischen Sportlerprodukte halt. ~scdd
 
 > Qualität ist, wenn der Kunde und nicht das Produkt zurück kommt. ~scdd
 
 > Ich bin kein BWLer. Das hat den Nachteil, ich bin kein BWLer. Das hat den Vorteil, ich bin kein BWLer. ~scdd
 
-> Das schreib ich Ihnen in die Evaluation rein: Student mag keine Deutschen ~wele als Reaktion auf studentische Aussage bei Datenselektion nach Zufallsverfahren: "Wenn man Pech hat, hat man nur Deutsche."
+> Das schreib ich Ihnen in die Evaluation rein: Student mag keine Deutschen. ~wele als Reaktion auf studentische Aussage bei Datenselektion nach Zufallsverfahren: "Wenn man Pech hat, hat man nur Deutsche."
