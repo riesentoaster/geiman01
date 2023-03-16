@@ -6,7 +6,7 @@
 
 > Fragen sind ok, ich bin für solche Ausnahmesituationen gewappnet. ~escl
 
-> Dann wird da irgendwie Kryptographie gemacht. ~wage über RNG
+> Dann wird da irgendwie Kryptographie gemacht. ~waga über RNG
 
 > Ich provoziere die Strasse sozusagen. ~escl über Action=Reactio beim Bremsen
 
