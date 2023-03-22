@@ -30,6 +30,8 @@
 
 > I’ve paid for these four cores — and they’re sitting around and drinking beer. ~donn
 
+> Work hard — not smart. ~flum
+
 > Abschreiben ist üblich, F=a*m habe ich nicht erfunden, aber erwähne Herrn Newton als Urheber. Und ich habe mich überzeugt, dass die Formel recht gut stimmt. ~escl
 
 > They stole from the open source community. ~bohe about Apple
