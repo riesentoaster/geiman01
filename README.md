@@ -2,29 +2,12 @@
 A collection of *things* dedicated to the man himself.
 
 ## Worte zu Sonntagen :)
-> Der Sonntag ist ein schöner Tag, da er der Sonne gewidmet ist.
-> - geiman01 2021 
-
-> Sonntag ist ein Sonnentag weil Sonntags die Sonne tagt. 
-> - saarofel 2021
-
-> Jeden Sonntag sollst du die Sonne loben und nicht auf den Tischen toben.
-> - geiman01 & saarofel 2021
-
-> Scheinbar scheint die Sonne auch an unscheinbaren Sonntagen.
-> - geiman01 2022
-
-> Bei Ausnahmesituationen wie Fragen, ist man in PE auch am Sonntag gut aufgehoben.
-> - geiman01 2022
-
-<blockquote>
-  <details>
-    <summary>Content Warning // Sadness</summary>
-    <br>
-    <p>Sonntag ist ein Sonnentag, aber der Schein trügt: Am Ende wird die Sonne untergehen.</p>
-  </details>
-  <ul><li>geiman01 & ChatGPT 2023</li></ul>
-</blockquote>
+- > Der Sonntag ist ein schöner Tag, da er der Sonne gewidmet ist. ~geiman01 2021 
+- > Sonntag ist ein Sonnentag weil Sonntags die Sonne tagt. ~saarofel 2021
+- > Jeden Sonntag sollst du die Sonne loben und nicht auf den Tischen toben. ~geiman01 & saarofel 2021
+- > Scheinbar scheint die Sonne auch an unscheinbaren Sonntagen. ~geiman01 2022
+- > Bei Ausnahmesituationen wie Fragen, ist man in PE auch am Sonntag gut aufgehoben. ~geiman01 2022
+- > <details><summary>Content Warning // Sadness</summary>Sonntag ist ein Sonnentag, aber der Schein trügt: Am Ende wird die Sonne untergehen. ~geiman01 & ChatGPT 2023</details>
 
 ## *Things*
 - [Wurzeln](./Wurzeln)
