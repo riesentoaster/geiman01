@@ -17,13 +17,14 @@ A collection of *things* dedicated to the man himself.
 > Bei Ausnahmesituationen wie Fragen, ist man in PE auch am Sonntag gut aufgehoben
 > - geiman01 2022
 
-<details>
-  <summary>Content Warning // Sadness</summary>
-  
-> Sonntag ist ein Sonnentag, aber der Schein trügt: Am Ende wird die Sonne untergehen.
-> - geiman01 & ChatGPT 2023
-
-</details>
+<blockquote>
+  <details>
+    <summary>Content Warning // Sadness</summary>
+    <br>
+    <p>Sonntag ist ein Sonnentag, aber der Schein trügt: Am Ende wird die Sonne untergehen.</p>
+    <ul><li>geiman01 & ChatGPT 2023</li></ul>
+  </details>
+</blockquote>
 
 ## *Things*
 - [Wurzeln](./Wurzeln)
