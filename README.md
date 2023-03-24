@@ -22,8 +22,8 @@ A collection of *things* dedicated to the man himself.
     <summary>Content Warning // Sadness</summary>
     <br>
     <p>Sonntag ist ein Sonnentag, aber der Schein trügt: Am Ende wird die Sonne untergehen.</p>
-    <ul><li>geiman01 & ChatGPT 2023</li></ul>
   </details>
+  <ul><li>geiman01 & ChatGPT 2023</li></ul>
 </blockquote>
 
 ## *Things*
