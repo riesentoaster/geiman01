@@ -18,9 +18,11 @@ A collection of *things* dedicated to the man himself.
 > - geiman01 2022
 
 <details>
-  <summary>triggerwarning</summary>
+  <summary>Content Warning // Sadness</summary>
+  
 > Sonntag ist ein Sonnentag, aber der Schein trügt: Am Ende wird die Sonne untergehen.
 > - geiman01 & ChatGPT 2023
+
 </details>
 
 ## *Things*
