@@ -41,9 +41,15 @@ A collection of *things* dedicated to the man himself.
 - [Moodle: Unicode Unspoof](https://unspoof.party)
 - [ZHAW VPN without AnyConnect Client](https://github.com/simonschuhmacher/openconnect-vpn-zhaw)
 
+### *Unhelpful Things*
+- [Comedy.md](./comedy.md)
+
 ### DirtyHack
 - [DirtyHack01](./dirtyHack01.md)
 - [DirtyHack02](./dirtyHack02.md)
+
+### *Rejected Things*
+- [hako](./assets/hako.png)
 
 ## *Maybethings*
 - > [`COM` is for comedy.](./assets/COM.png)
@@ -55,12 +61,6 @@ A collection of *things* dedicated to the man himself.
 
 ## *Nothings*
 - > [How to square the circle](./SquareTheCircle.md)
-
-## *Unhelpful Things*
-- [Comedy.md](./comedy.md)
-
-## *Rejected Things*
-- [hako](./assets/hako.png)
 
 ## ToDos
 - [ ] Asymptote
