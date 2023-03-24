@@ -50,6 +50,9 @@ A collection of *things* dedicated to the man himself.
 ## *Unhelpful Things*
 - [Comedy.md](./comedy.md)
 
+## *Rejected Things*
+- [hako](./assets/hako.png)
+
 ## ToDos
 - [ ] Asymptote
   - Nähert sich der Graph einer Funktion einer Geraden immer mehr an, ohne sie zu schneiden, so wird diese Gerade Asymptote genannt. Man unterscheidet zwischen senkrechte, waagerechte und schiefe Asymptoten.
