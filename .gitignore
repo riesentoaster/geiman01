@@ -6,3 +6,6 @@ _site/
 
 # macOS
 .DS_Store
+
+# bundler
+Gemfile.lock
