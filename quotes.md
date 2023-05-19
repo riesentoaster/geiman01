@@ -67,3 +67,5 @@
 > Das schreib ich Ihnen in die Evaluation rein: Student mag keine Deutschen. ~wele als Reaktion auf studentische Aussage bei Datenselektion nach Zufallsverfahren: "Wenn man Pech hat, hat man nur Deutsche."
 
 > Ich mein, dasch würkli vil. ~flum, während die Ziffern hinter ihm geprintet werden für die 500'000-te Fibonacci-Zahl
+
+> Morality is a variable. ~agiu
