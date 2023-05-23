@@ -69,3 +69,5 @@
 > Ich mein, dasch würkli vil. ~flum, während die Ziffern hinter ihm geprintet werden für die 500'000-te Fibonacci-Zahl
 
 > Morality is a variable. ~agiu
+
+> It would be so nice if things just worked. ~neut because MS Teams
