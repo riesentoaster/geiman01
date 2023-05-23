@@ -73,3 +73,5 @@
 > It would be so nice if things just worked. ~neut because MS Teams
 
 > We're now doing something that is sometimes called offensive threat modeling. And by offensive we don't mean that we use a lot of swear words — even though people may do that as well. ~neut
+
+> Da isch sicher nöd Angola du Wichser - geiman01, mit Recht
