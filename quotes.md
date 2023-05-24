@@ -73,3 +73,5 @@
 > It would be so nice if things just worked. ~neut because MS Teams
 
 > We're now doing something that is sometimes called offensive threat modeling. And by offensive we don't mean that we use a lot of swear words — even though people may do that as well. ~neut
+
+> It's a really stupid design. I don't know who came up with it. But they should be slapped. With a fish. With a really big fish. With a trout. Repeatedly. Across the face. ~neut about using a 10 bit counter to store time in a GPS device
