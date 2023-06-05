@@ -39,6 +39,7 @@ A collection of *things* dedicated to the man himself.
 - [Prompts for Skribbl.io](https://docs.google.com/forms/d/e/1FAIpQLSd5sbU9lDsGtOUgj7UuqDRBKXxwz-R1hsI29VHxIBfG8Rfqow/viewform?usp=sf_link)
 - [WING Summary](./wing-summary.md)
 - [Wisdom by Bohe](./bohe-wisdom.md)
+- [man bohe](./assets/Bohnert.png)
 - [Quotes](./quotes.md)
 - [ChatGPT](./chatgpt.md)
 
