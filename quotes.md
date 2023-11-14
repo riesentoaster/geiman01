@@ -77,3 +77,5 @@
 > It's a really stupid design. I don't know who came up with it. But they should be slapped. With a fish. With a really big fish. With a trout. Repeatedly. Across the face. ~neut about using a 10 bit counter to store time in a GPS device
 
 > Da isch sicher nöd Angola du Wichser ~geiman01, mit Recht
+
+> Dis Hirni isch en Stack! ~sigetim
